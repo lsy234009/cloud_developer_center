@@ -7,7 +7,7 @@
 
 首先成功部署一个应用。
 
-![](/images/log-app.png) 
+![](/articles/cloud/3-/images/log-app.png) 
 
 单击**日志**页签，查看应用运行日志。
 
