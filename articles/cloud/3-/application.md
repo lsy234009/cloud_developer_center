@@ -7,6 +7,7 @@
 
 ## 应用列表
 进入应用管理菜单后，可以查看到已部署的应用列表，支持通过资源池、主机等过滤。每一个应用都展示了一些基本信息，通过点击应用，可进入应用详情页；同时支持应用的销毁。
+
 ![image](/articles/cloud/3-/images/appmanage_2.png)
 
 ## 应用详情
@@ -24,12 +25,17 @@
 > 上架：上架应用
 
 ![image](/articles/cloud/3-/images/appmanage_3.png)
+
 2. 扩缩
+
 修改应用的实例数来应对不同的访问量
 ![image](/articles/cloud/3-/images/appmanage_4.png)
 3. ```实例```页签
+
 实例页签列出了所有正在运行的实例，包括实例的运行状态、健康情况，以及运行的主机等；支持特定实例的销毁、日志查看等功能。
+
 ![image](/articles/cloud/3-/images/appmanage_5.png)
+
 > ```销毁```实例
 
 *选择实例后，点击```销毁```按钮，即可删除当前实例并重新启动一个新的实例*
@@ -41,16 +47,20 @@
 > 点击容器控制台的图标，会打开一个控制台页面，可以进入容器进行操作
 
 4. ```属性```页签
+
 属性页签可以修改部署应用的属性，包括cpu、内存、镜像、健康检查等
+
 ![image](/articles/cloud/3-/images/appmanage_6.png)
 
 
 5. ```事件```页签
+
 事件页签显示了最后修改、失败任务等
 ![image](/articles/cloud/3-/images/appmanage_7.png)
 
 6. ```监控```页签
 监控页签显示了每个实例的cpu、内存、网络的图表信息，包括实时和24小时的
+
 ![image](/articles/cloud/3-/images/appmanage_8.png)
 
 7. ```域名```页签
