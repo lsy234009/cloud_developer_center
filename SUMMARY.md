@@ -1,6 +1,5 @@
-# Summary
+# Table of content
 
-* [Introduction](README.md)
 * 产品介绍
   * [产品概述](articles/cloud/1-/overview.md)
   * [产品优势](articles/cloud/1-/advantage.md)
