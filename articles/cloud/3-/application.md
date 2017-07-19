@@ -1,14 +1,19 @@
 # 概述
-用友开发者中心的应用管理提供了对已发部署应用的管理，包括应用的暂停、销毁、扩缩等。
-## 应用管理入口
-在开发者中心菜单栏点击应用管理即可进入应用管理页面。
 
-![image](/articles/cloud/3-/images/appmanage_1.png)
+用友云开发者中心的应用管理提供了对已部署应用的管理，包括应用的启动、暂停、销毁、升级、回滚以及扩缩等。
+
+## 应用管理入口
+在开发者中心菜单栏点击应用管理即可进入应用管理页面，如图 1所示。
+
+<div align=center> ![](/articles/cloud/3-/images/appmanage_1.png) </div>
+<p align="center">![](/articles/cloud/3-/images/appmanage_1.png)</p>
+
+<p align="center">图 1</p>
 
 ## 应用列表
 进入应用管理菜单后，可以查看到已部署的应用列表，支持通过资源池、主机等过滤。每一个应用都展示了一些基本信息，通过点击应用，可进入应用详情页；同时支持应用的销毁。
 
-![image](/articles/cloud/3-/images/appmanage_2.png)
+![](/articles/cloud/3-/images/appmanage_2.png)
 
 ## 应用详情
 1. 在应用详情页，显示了应用的域名、镜像、创建时间等；同时提供了暂停、重启、销毁、升级、回滚、上架等功能
@@ -24,7 +29,7 @@
 
 > 上架：上架应用
 
-![image](/articles/cloud/3-/images/appmanage_3.png)
+![](/articles/cloud/3-/images/appmanage_3.png)
 
 2. 扩缩
 
@@ -36,7 +41,7 @@
 
 实例页签列出了所有正在运行的实例，包括实例的运行状态、健康情况，以及运行的主机等；支持特定实例的销毁、日志查看等功能。
 
-![image](/articles/cloud/3-/images/appmanage_5.png)
+![](/articles/cloud/3-/images/appmanage_5.png)
 
 > ```销毁```实例
 
@@ -52,7 +57,7 @@
 
 属性页签可以修改部署应用的属性，包括cpu、内存、镜像、健康检查等
 
-![image](/articles/cloud/3-/images/appmanage_6.png)
+![](/articles/cloud/3-/images/appmanage_6.png)
 
 
 5. ```事件```页签
