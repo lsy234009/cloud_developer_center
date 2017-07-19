@@ -11,7 +11,7 @@
 
 <p align="center"> ![](/articles/cloud/3-/images/appmanage_1.png) </p>
 
-<div style="align: center">
+<div align=center>
 <img src="/articles/cloud/3-/images/appmanage_1.png"/>
 </div>
 
