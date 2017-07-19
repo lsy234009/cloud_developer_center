@@ -6,7 +6,8 @@
 在开发者中心菜单栏点击应用管理即可进入应用管理页面，如图 1所示。
 
 <div align=center> ![](/articles/cloud/3-/images/appmanage_1.png) </div>
-<p align="center">![](/articles/cloud/3-/images/appmanage_1.png)</p>
+
+<p align="center"> ![](/articles/cloud/3-/images/appmanage_1.png) </p>
 
 <p align="center">图 1</p>
 
