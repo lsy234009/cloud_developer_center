@@ -31,4 +31,5 @@
   * [怎样添加环境变量？](articles/cloud/4-/how_to_add_environment_variables.md)
   * [怎样绑定域名？](articles/cloud/4-/how_to_bind_domains.md)
   * [报警中心的使用](articles/cloud/3-/alarm_center.md)
+  * [如何登录容器控制台？](articles/cloud/3-/terminal.md)
 
