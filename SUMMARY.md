@@ -7,8 +7,8 @@
   * [基础架构](articles/cloud/1-/architecture.md)
   * [产品历程](articles/cloud/1-/releas_note.md)
 * 快速入门
-  * [场景一：1分钟快速部署您的第一个容器](articles/cloud/2-/scene1.md)
-  * [场景二：如何将您的应用容器化](articles/cloud/2-/scene2.md)
+  * [场景一：如何快速创建一个应用](articles/cloud/2-/scene1.md)
+  * [场景二：1分钟快速部署您的第一个容器](articles/cloud/2-/scene2.md)
   * [云开发者中心快速入门](articles/cloud/2-/rumen.md)
 * 用户手册
   * [租户开通](articles/cloud/3-/opening.md)
@@ -22,7 +22,6 @@
   * [在线终端](articles/cloud/3-/terminal.md)
   * [使用和管理Redis服务](articles/cloud/3-/redis.md)
   * [使用和管理MySQL服务](articles/cloud/3-/mysql.md)
-  * [用户管理、菜单管理、权限设置](articles/cloud/3-/management.md)
 * 产品常见问题
   * [常见问题](articles/cloud/4-/question.md)
 

@@ -1,17 +1,17 @@
-如何将您的应用镜像化 
+1分钟快速部署您的第一个容器
 =
-* 第一步：点击左侧“持续集成”或者“应用管理”，左上角点击“创建新应用”的按钮。
+第一步：在持续集成中找到您已经构建成功的应用，点击“部署”，进入部署界面
 
-![](/articles/cloud/2-/images/2.jpg)
+![](/articles/cloud/2-/images/5.jpg)
 
-* 第二步：按要求填写所有的文本框；选择对应的应用分类以及运行环境，并上传对应格式的应用包。
+第二步：按需求填写端口设置，然后选择资源池，再对内存、cpu权重、磁盘大小和实例数量进行设置，完成之后点击“部署”。
 
-![](/articles/cloud/2-/images/1.jpg)
+![](/articles/cloud/2-/images/6.jpg)
 
-* 第三步：点击最下面的“创建新应用”，可以查看当前日志，等待出现“Upload success”，镜像封装完成
+![](/articles/cloud/2-/images/7.jpg)
 
-![](/articles/cloud/2-/images/3.jpg)
+第三步：查看部署详情，当显示状态是运行中，那么应用实例就启动成功了。我们可以点击域名来访问我们部署的应用容器。
 
-* 我们还可以点击“构建新版本”来更新应用程序,只需填写新的版本号并上传新应用即可。
+![](/articles/cloud/2-/images/8.jpg)
 
-![](/articles/cloud/2-/images/4.jpg)
+![](/articles/cloud/2-/images/9.jpg)

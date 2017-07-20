@@ -2,7 +2,7 @@
 
 1. a**我如何申请一个开发者中心账号？**
 
-答：登录开发者中心首页，点击```注册```，输入手机号码等信息，根据指引即可注册账号。
+答：登录开发者中心首页(https://developer.yonyoucloud.com)，点击```注册```，输入手机号码等信息，根据指引即可注册账号。
 
 2. **什么是```资源池```？**
 
@@ -39,3 +39,85 @@
 10. **我要如何接入我自己的域名？**
 
 答：进入```应用管理```，点击自己的应用，再依次点击```域名```-```绑定域名```，选中```自有域名```，输入域名后即可将该域名绑定到自己的服务。
+
+1. **如何注册？ zhen**
+
+登录开发者中心首页(https://developer.yonyoucloud.com)，点击```注册```，输入手机号码等信息，根据指引即可注册账号。开通租户详见[租户开通](articles/cloud/3-/opening.md)
+
+2. **如何申请体验资源池？zhen**
+
+答：进入```我的资源池```菜单，点击```申请体验资源池```按钮，输入申请到的邀请码，即可使用体验资源池。
+
+2. **如何上传我的应用? zhen**
+
+见用户手册[创建应用](articles/cloud/3-/create.md)
+
+3. 如何查看我上传的应用?  chao
+4. 如何添加主机到资源池? rong
+5. **怎么使用中间件? yang**
+
+举例说明：[使用和管理Redis服务](articles/cloud/3-/redis.md)
+、[使用和管理MySQL服务](articles/cloud/3-/mysql.md)
+
+6. 怎么启用应用配置? chao
+7. 怎么管理我的镜像? rong
+8. 怎样添加环境变量? chao
+9. 怎样绑定域名？ chao
+10. 持续构建(各类型应用分开)rong
+11. 报警中心的使用 chao
+12. **如何给别人添加应用权限？zhen**
+
+在“应用管理”菜单中找到对应的应用选择“查看应用”，右上角有权限管理的按钮
+<div align=center>
+<img src="/articles/cloud/4-/images/1.jpg"/>
+</div>
+<p align="center">图 1</p>
+
+然后参照[权限控制](articles/cloud/3-/access.md)中第二项“其他授权管理”进行对应的授权操作。
+
+13. **如何给别人添加资源池权限？zhen**
+
+进入资源池菜单，找到对应的资源池，在右上角点击权限管理，如图2所示。
+<div align=center>
+<img src="/articles/cloud/4-/images/2.jpg"/>
+</div>
+<p align="center">图 2</p>
+然后参照[权限控制](articles/cloud/3-/access.md)中第二项“其他授权管理”进行对应的授权操作。
+
+14. **如何给别人添加中间件权限？zhen**
+
+进入中间件服务菜单，选择对应的中间件，比如mysql
+<div align=center>
+<img src="/articles/cloud/4-/images/3.jpg"/>
+</div>
+<p align="center">图 3</p>
+点击管理我的mysql，进入服务列表
+<div align=center>
+<img src="/articles/cloud/4-/images/4.jpg"/>
+</div>
+<p align="center">图 4</p>
+然后参照[权限控制](articles/cloud/3-/access.md)中第二项“其他授权管理”进行对应的授权操作。
+
+15. **如何给别人添加持续集成权限？zhe**
+
+
+
+16. **如何给别人添加镜像仓库权限？zhe**
+
+在镜像仓库菜单中，选择私有仓库，显示私有镜像的列表，点击权限管理的小按钮进行权限管理。
+<div align=center>
+<img src="/articles/cloud/4-/images/5.jpg"/>
+</div>
+<p align="center">图 5</p>
+然后参照[权限控制](articles/cloud/3-/access.md)中第二项“其他授权管理”进行对应的授权操作。
+
+17. 如何通过Jenkins进行持续构建？rong
+18. 如何登录容器控制台？chao
+19. 可以基于源代码进行构建么？rong
+20. 基础镜像都支持哪些运行环境s？rong
+21. 配置中心的版本和应用的版本如何区分？chao
+22. 如何查询资源池主机状态？rong
+23. 自有资源池主机如何自测是否接入以及失联原因判断？rong
+24. 如何快速查找到所需应用？rong
+25. 如何配置服务报警的请求参数？chao
+26. 如何部署基于Play Framework框架的Java应用？rong
