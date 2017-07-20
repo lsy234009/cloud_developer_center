@@ -130,7 +130,7 @@
 
 <div align="center">
 <img src="/articles/cloud/3-/images/create_9.png">
-</div>s
+</div>
 <p align="center"> 图 9</p>
 
 跳转到部署页面。如图10所示。
