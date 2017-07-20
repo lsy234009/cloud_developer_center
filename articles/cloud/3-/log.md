@@ -19,7 +19,7 @@
 
 <div align=center>
 
-<img src="/articles/cloud/3-/images/log-detail.png"/>
+<img src="/articles/cloud/3-/images/log-detail.jpg"/>
 
 </div>
 
