@@ -34,7 +34,7 @@
 
 <div align=center>
 
-<img src="/articles/cloud/4-/images/how_to_add_environment_variables_4.png"/>
+<img src="/articles/cloud/4-/images/how_to_bind_domains_4.png"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align=center>
 
-<img src="/articles/cloud/4-/images/how_to_add_environment_variables_5.png"/>
+<img src="/articles/cloud/4-/images/how_to_bind_domains_5.png"/>
 
 </div>
 
