@@ -20,6 +20,8 @@
   * [应用上架](articles/cloud/3-/onsale.md)
   * [日志管理](articles/cloud/3-/log.md)
   * [在线终端](articles/cloud/3-/terminal.md)
+  * [监控大盘](articles/cloud/3-/monitor.md)
+  * [报警中心](articles/cloud/3-/alarm_center.md)
   * [使用和管理Redis服务](articles/cloud/3-/redis.md)
   * [使用和管理MySQL服务](articles/cloud/3-/mysql.md)
   * [用户管理、菜单管理、权限设置](articles/cloud/3-/management.md)
