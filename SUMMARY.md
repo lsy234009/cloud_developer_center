@@ -32,4 +32,6 @@
   * [怎样绑定域名？](articles/cloud/4-/how_to_bind_domains.md)
   * [报警中心的使用](articles/cloud/3-/alarm_center.md)
   * [如何登录容器控制台？](articles/cloud/3-/terminal.md)
+  * [如何配置服务报警的请求参数？](articles/cloud/4-/how_to_configure_request param_alarm.md)
+  * [怎么启用应用配置文件？](articles/cloud/4-/how_to_enable_app_config.md)
 
