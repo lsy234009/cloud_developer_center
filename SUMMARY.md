@@ -15,7 +15,7 @@
   * [资源池](articles/cloud/3-/resource_pool.md)
   * [权限控制](articles/cloud/3-/access.md)
   * [持续集成](articles/cloud/3-/create.md)
-  * [应用部署、镜像仓库](articles/cloud/3-/deploy.md)
+  * [镜像仓库](articles/cloud/3-/deploy.md)
   * [应用管理](articles/cloud/3-/application.md)
   * [应用上架](articles/cloud/3-/onsale.md)
   * [日志管理](articles/cloud/3-/log.md)
