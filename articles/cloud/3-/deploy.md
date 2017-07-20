@@ -3,8 +3,9 @@
 
 ## 镜像仓库入口
 从开发者中心菜单栏点击镜像仓库即可进入镜像仓库节点，进入后默认展示的是公有镜像仓库。如图1所示。
-
-<center>![](images/deploy/registryindex.png)</center>
+<div align="center">
+![](images/deploy/registryindex.png)
+</div>
 <p align="center"> 图 1</p>
 
 
