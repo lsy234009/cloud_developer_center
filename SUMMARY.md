@@ -27,4 +27,7 @@
   * [用户管理、菜单管理、权限设置](articles/cloud/3-/management.md)
 * 产品常见问题
   * [常见问题](articles/cloud/4-/question.md)
+  * [如何查看我上传的应用？](articles/cloud/4-/how_to_view_uploaded_app.md)
+  * [怎样添加环境变量？](articles/cloud/4-/how_to_add_environment_variables.md)
+  * [怎样绑定域名？](articles/cloud/4-/how_to_bind_domains.md)
 
