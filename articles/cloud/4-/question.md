@@ -1,5 +1,5 @@
 
-1.**如何注册？ **
+1.**如何注册？**
 
 登录开发者中心首页(https://developer.yonyoucloud.com)
 
@@ -129,7 +129,7 @@
 <p align="center">图 5</p>
 然后参照[权限控制](articles/cloud/3-/access.md)中第二项“其他授权管理”进行对应的授权操作。
 
-27.如何登录容器控制台？
+27.**如何登录容器控制台？**
 
 答：详见[如何登录容器控制台](articles/cloud/3-/terminal.md)
 
