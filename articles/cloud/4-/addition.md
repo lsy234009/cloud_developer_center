@@ -12,9 +12,9 @@
 
 然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "1")进行对应的授权操作。
 
-<div id="资源池权限"></div>
-2.**如何给别人添加资源池权限？**
 
+2.**如何给别人添加资源池权限？**
+<div id="资源池权限"></div>
 进入资源池菜单，找到对应的资源池，在右上角点击权限管理，如图2所示。
 <div align=center>
 <img src="/articles/cloud/4-/images/2.jpg"/>
