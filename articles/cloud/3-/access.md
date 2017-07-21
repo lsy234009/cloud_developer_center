@@ -42,34 +42,7 @@
 <p align="center">图 7</p>
 ====================================
 
-
-
-<div id="其他授权4">
-<div id="其他授权3">
-<div id="其他授权2">
-<div id="其他授权1">
-## 二、其他授权管理
-
-点击对应授权按钮后，就可以看到已授权用户的信息，图8中显示没有已授权的用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a1.jpg"/>
-</div>
-<p align="center">图 8</p>
-可以点击“添加新用户”来增加目标用户的权限，在搜索栏搜索目标用户，选中目标用户后，选择对应权限，点击“授权”即可完成授权。
-<div align=center>
-<img src="/articles/cloud/3-/images/a2.jpg"/>
-</div>
-<p align="center">图 9</p>
-然后就可以看到已授权用户的情况，可以在“操作”栏里对用户的权限进行修改，以及删除授权用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a3.jpg"/>
-</div>
-<p align="center">图 10</p>
-
-</div>
-</div>
-</div>
-</div>
+<div id="授权管理"></div>
 ## 二、其他授权管理
 
 点击对应授权按钮后，就可以看到已授权用户的信息，图8中显示没有已授权的用户。

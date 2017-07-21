@@ -1,5 +1,6 @@
 权限相关
 =
+
 <div id="应用权限"></div>
 1.**如何给别人添加应用权限？**
 
@@ -9,7 +10,8 @@
 </div>
 <p align="center">图 1</p>
 
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权1)进行对应的授权操作。
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "1")进行对应的授权操作。
+
 <div id="资源池权限"></div>
 2.**如何给别人添加资源池权限？**
 
@@ -18,7 +20,8 @@
 <img src="/articles/cloud/4-/images/2.jpg"/>
 </div>
 <p align="center">图 2</p>
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权2)进行对应的授权操作。
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "2")进行对应的授权操作。
+
 <div id="中间件权限"></div>
 3.**如何给别人添加中间件权限？**
 
@@ -32,7 +35,8 @@
 <img src="/articles/cloud/4-/images/4.jpg"/>
 </div>
 <p align="center">图 4</p>
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权3)进行对应的授权操作。
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "3")进行对应的授权操作。
+
 <div id="镜像权限"></div>
 4.**如何给别人添加镜像仓库权限？**
 
@@ -41,4 +45,24 @@
 <img src="/articles/cloud/4-/images/5.jpg"/>
 </div>
 <p align="center">图 5</p>
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权4)进行对应的授权操作。
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "4")进行对应的授权操作。
+
+<div id="服务自愈"></div>
+5.**服务是如何自愈的？**
+
+点击实例重启，变化如图所示
+
+<div align=center>
+<img src="/articles/cloud/4-/images/5.png"/>
+</div>
+<p align="center">图 5</p>
+
+<div align=center>
+<img src="/articles/cloud/4-/images/6.png"/>
+</div>
+<p align="center">图 6</p>
+
+<div align=center>
+<img src="/articles/cloud/4-/images/7.png"/>
+</div>
+<p align="center">图 7</p>
