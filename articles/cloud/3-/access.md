@@ -41,7 +41,11 @@
 </div>
 <p align="center">图 7</p>
 
-## 二、其他授权管理<div id="其他授权"></div>
+<div id="其他授权1"></div>
+<div id="其他授权2"></div>
+<div id="其他授权3"></div>
+<div id="其他授权4"></div>
+## 二、其他授权管理
 
 点击对应授权按钮后，就可以看到已授权用户的信息，图8中显示没有已授权的用户。
 <div align=center>
