@@ -11,7 +11,9 @@
 </div>
 <p align="center">图 1</p>
 
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "1")进行对应的授权操作。
+然后参照
+[权限控制](/articles/cloud/3-/access.md/#其他授权1)
+进行对应的授权操作。
 
 <div id="资源池权限"></div> 
 
@@ -22,7 +24,9 @@
 <img src="/articles/cloud/4-/images/2.jpg"/>
 </div>
 <p align="center">图 2</p>
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "2")进行对应的授权操作。
+然后参照
+[权限控制](/articles/cloud/3-/access.md/#其他授权2)
+进行对应的授权操作。
 
 <div id="中间件权限"></div>
 
@@ -38,7 +42,9 @@
 <img src="/articles/cloud/4-/images/4.jpg"/>
 </div>
 <p align="center">图 4</p>
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "3")进行对应的授权操作。
+然后参照
+[权限控制](/articles/cloud/3-/access.md/#其他授权3)
+进行对应的授权操作。
 
 <div id="镜像权限"></div>
 
@@ -49,7 +55,9 @@
 <img src="/articles/cloud/4-/images/5.jpg"/>
 </div>
 <p align="center">图 5</p>
-然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "4")进行对应的授权操作。
+然后参照
+[权限控制](/articles/cloud/3-/access.md/#其他授权4)
+进行对应的授权操作。
 
 <div id="服务自愈"></div>
 
