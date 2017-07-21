@@ -11,21 +11,7 @@
 </div>
 <p align="center">图 1</p>
 
-点击对应授权按钮后，就可以看到已授权用户的信息，图8中显示没有已授权的用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a1.jpg"/>
-</div>
-<p align="center">图 8</p>
-可以点击“添加新用户”来增加目标用户的权限，在搜索栏搜索目标用户，选中目标用户后，选择对应权限，点击“授权”即可完成授权。
-<div align=center>
-<img src="/articles/cloud/3-/images/a2.jpg"/>
-</div>
-<p align="center">图 9</p>
-然后就可以看到已授权用户的情况，可以在“操作”栏里对用户的权限进行修改，以及删除授权用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a3.jpg"/>
-</div>
-<p align="center">图 10</p>
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "1")进行对应的授权操作。
 
 <div id="资源池权限"></div> 
 
@@ -36,21 +22,7 @@
 <img src="/articles/cloud/4-/images/2.jpg"/>
 </div>
 <p align="center">图 2</p>
-点击对应授权按钮后，就可以看到已授权用户的信息，图8中显示没有已授权的用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a1.jpg"/>
-</div>
-<p align="center">图 8</p>
-可以点击“添加新用户”来增加目标用户的权限，在搜索栏搜索目标用户，选中目标用户后，选择对应权限，点击“授权”即可完成授权。
-<div align=center>
-<img src="/articles/cloud/3-/images/a2.jpg"/>
-</div>
-<p align="center">图 9</p>
-然后就可以看到已授权用户的情况，可以在“操作”栏里对用户的权限进行修改，以及删除授权用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a3.jpg"/>
-</div>
-<p align="center">图 10</p>
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "2")进行对应的授权操作。
 
 <div id="中间件权限"></div>
 
@@ -66,21 +38,7 @@
 <img src="/articles/cloud/4-/images/4.jpg"/>
 </div>
 <p align="center">图 4</p>
-点击对应授权按钮后，就可以看到已授权用户的信息，图8中显示没有已授权的用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a1.jpg"/>
-</div>
-<p align="center">图 8</p>
-可以点击“添加新用户”来增加目标用户的权限，在搜索栏搜索目标用户，选中目标用户后，选择对应权限，点击“授权”即可完成授权。
-<div align=center>
-<img src="/articles/cloud/3-/images/a2.jpg"/>
-</div>
-<p align="center">图 9</p>
-然后就可以看到已授权用户的情况，可以在“操作”栏里对用户的权限进行修改，以及删除授权用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a3.jpg"/>
-</div>
-<p align="center">图 10</p>
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "3")进行对应的授权操作。
 
 <div id="镜像权限"></div>
 
@@ -91,21 +49,7 @@
 <img src="/articles/cloud/4-/images/5.jpg"/>
 </div>
 <p align="center">图 5</p>
-点击对应授权按钮后，就可以看到已授权用户的信息，图8中显示没有已授权的用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a1.jpg"/>
-</div>
-<p align="center">图 8</p>
-可以点击“添加新用户”来增加目标用户的权限，在搜索栏搜索目标用户，选中目标用户后，选择对应权限，点击“授权”即可完成授权。
-<div align=center>
-<img src="/articles/cloud/3-/images/a2.jpg"/>
-</div>
-<p align="center">图 9</p>
-然后就可以看到已授权用户的情况，可以在“操作”栏里对用户的权限进行修改，以及删除授权用户。
-<div align=center>
-<img src="/articles/cloud/3-/images/a3.jpg"/>
-</div>
-<p align="center">图 10</p>
+然后参照[权限控制](/articles/cloud/3-/access.md/#其他授权 "4")进行对应的授权操作。
 
 <div id="服务自愈"></div>
 
