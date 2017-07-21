@@ -5,11 +5,13 @@
 <img src="/articles/cloud/3-/images/01.png"/>
 </div>
 <p align="center">图 1</p>
+
   在入驻界面中输入申请信息,点击提交。
 <div align=center>
 <img src="/articles/cloud/3-/images/02.png"/>
 </div>
 <p align="center">图 2</p>
+
   提示成功后回到开发者中心,刷新界面,可以看到审核状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/3.png"/>
