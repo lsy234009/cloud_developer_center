@@ -4,7 +4,7 @@
 
 答：登录开发者中心首页(https://developer.yonyoucloud.com)
 
-点击```注册```，输入手机号码等信息，根据指引即可注册账号。开通租户详见[租户开通](articles/cloud/3-/opening.md)
+点击```注册```，输入手机号码等信息，根据指引即可注册账号。开通租户详见[租户开通](/articles/cloud/3-/opening.md)
 
 2.**什么是```资源池```？**
 
@@ -28,7 +28,7 @@
 
 7.**如何上传我的应用?**
 
-答：见用户手册[创建应用](articles/cloud/3-/create.md)
+答：见用户手册[创建应用](/articles/cloud/3-/create.md)
 
 8.**为什么我上传的应用构建失败了？**
 
@@ -36,7 +36,7 @@
 
 9.**如何查看我上传的应用?**
 
-答：详见[如何查看我上传的应用](articles/cloud/4-/how_to_view_uploaded_app.md) 
+答：详见[如何查看我上传的应用](/articles/cloud/4-/how_to_view_uploaded_app.md) 
 
 10.**部署应用时，我如何确定我应分配多少资源给我的应用？**
 
@@ -52,11 +52,11 @@
 
 13.**怎样绑定域名？**
 
-答：详见[怎样绑定域名](articles/cloud/4-/how_to_bind_domains.md) 
+答：详见[怎样绑定域名](/articles/cloud/4-/how_to_bind_domains.md) 
 
 14.**怎么启用应用配置文件**？
 
-答：详见[怎么启用应用配置文件](articles/cloud/4-/how_to_enable_app_config.md) 
+答：详见[怎么启用应用配置文件](/articles/cloud/4-/how_to_enable_app_config.md) 
 
 15.**怎么管理我的镜像?** 
 
@@ -68,7 +68,7 @@
 
 17.** 怎样添加环境变量？**
 
-答：详见[怎样添加环境变量](articles/cloud/4-/how_to_add_environment_variables.md)
+答：详见[怎样添加环境变量](/articles/cloud/4-/how_to_add_environment_variables.md)
 
 18.**持续构建(各类型应用分开)**
 
@@ -84,19 +84,19 @@
 
 21.**如何使用报警中心？**
 
-答：详见[报警中心的使用](articles/cloud/3-/alarm_center.md)
+答：详见[报警中心的使用](/articles/cloud/3-/alarm_center.md)
 
 22.**如何给别人添加应用权限？**
 
-答：查看[权限相关：应用权限](articles/cloud/4-/权限相关.md/#应用权限)
+答：查看[权限相关：应用权限](/articles/cloud/4-/权限相关.md/#应用权限)
 
 23.**如何给别人添加资源池权限？**
 
-答：查看[权限相关：资源池权限](articles/cloud/4-/权限相关.md/#资源池权限)
+答：查看[权限相关：资源池权限](/articles/cloud/4-/权限相关.md/#资源池权限)
 
 24.**如何给别人添加中间件权限？**
 
-答：查看[权限相关：中间件权限](articles/cloud/4-/权限相关.md/#中间件权限)
+答：查看[权限相关：中间件权限](/articles/cloud/4-/权限相关.md/#中间件权限)
 
 25.**如何给别人添加持续集成权限？**
 
@@ -104,11 +104,11 @@
 
 26.**如何给别人添加镜像仓库权限？**
 
-答：查看[权限相关：镜像仓库权限](articles/cloud/4-/权限相关.md/#镜像权限)
+答：查看[权限相关：镜像仓库权限](/articles/cloud/4-/权限相关.md/#镜像权限)
 
 27.**如何登录容器控制台？**
 
-答：详见[如何登录容器控制台](articles/cloud/3-/terminal.md)
+答：详见[如何登录容器控制台](/articles/cloud/3-/terminal.md)
 
 28.**可以基于源代码进行构建么？**
 
@@ -124,9 +124,9 @@
 
 31.**如何配置服务报警的请求参数？**
 
-答：详见[如何配置服务报警的请求参数](articles/cloud/4-/how_to_configure_request_param_alarm.md)
+答：详见[如何配置服务报警的请求参数](/articles/cloud/4-/how_to_configure_request_param_alarm.md)
 
 32.**怎么使用中间件?**
 
-答：举例说明：[使用和管理Redis服务](articles/cloud/3-/redis.md)
-、[使用和管理MySQL服务](articles/cloud/3-/mysql.md)
+答：举例说明：[使用和管理Redis服务](/articles/cloud/3-/redis.md)
+、[使用和管理MySQL服务](/articles/cloud/3-/mysql.md)

@@ -28,11 +28,11 @@
 <p align="center">图 5</p>
 第三步：创建应用
 
-[点击查看如何快速创建一个应用](articles/cloud/2-/scene1.md)
+[点击查看如何快速创建一个应用](/articles/cloud/2-/scene1.md)
 
 第四步：部署应用
 
-[点击查看如何快速部署应用](articles/cloud/2-/scene2.md)
+[点击查看如何快速部署应用](/articles/cloud/2-/scene2.md)
 
 第五步：监控大盘
 
