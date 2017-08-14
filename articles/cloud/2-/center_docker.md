@@ -120,7 +120,7 @@ Docker 是一个开源的应用容器引擎，基于 Go 语言 并遵从 Apache2
 ## 在用友云开发者中心，如何删除一个 Docker 容器？
 在自己部署的应用详情页，点击 `销毁`，即可销毁正在运行的应用容器
 <div align="center">
-<img src="/articles/cloud/2-/images/destroy_container.png.png">
+<img src="/articles/cloud/2-/images/destroy_container.png">
 </div>
 <p align="center"> 图 15</p>
 
