@@ -47,6 +47,6 @@
 
 第七步：统一搜索-数据检索的类SQL语法查询数据帮助文档如下：
 
-<div align=center>
+<div align=left>
 <a href="/articles/cloud/3-/opensearch-help.md" title="帮助文档">查看帮助文档</a>
 </div>
