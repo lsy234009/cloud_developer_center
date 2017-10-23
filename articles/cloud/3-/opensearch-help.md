@@ -113,7 +113,6 @@ select * from user where name=term('数据')
 
 select * from user where name=term('shuju')
 
-
 select * from user where name=term('sj')
 
 ```
@@ -133,8 +132,6 @@ select * from user where name=matchquery('数据')
 ```sql
 
 select * from user where age <> 20
-
-
 
 select * from user where age is not 20
 
@@ -208,8 +205,6 @@ select avg(age) from user
 
 select stats(age) from user 
 
-
-
 ```
 
 
@@ -220,15 +215,13 @@ select stats(age) from user
 
 select percentiles(age) from user 
 
-
-
 ```
 
 
 
 #### 根据区间聚合
 
-```
+```sql
 
  select count(age) from bank group by range(age, 20,25,30,35,40)
 
@@ -238,7 +231,7 @@ select percentiles(age) from user
 
 #### 根据时间区间聚合
 
-```
+```sql
 
 select online from online group by date_histogram(field='insert_time','interval'='1d')
 
