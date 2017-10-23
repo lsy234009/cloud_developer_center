@@ -169,7 +169,7 @@ select * from user where age in(20,30)
 
 
 
-## is null is not null
+## is null / is not null
 
 ```sql
 
