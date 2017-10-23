@@ -113,7 +113,6 @@ select * from user where name=term('数据')
 
 select * from user where name=term('shuju')
 
--- 或者
 
 select * from user where name=term('sj')
 
