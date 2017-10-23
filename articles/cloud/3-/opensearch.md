@@ -32,7 +32,7 @@
 </div>
 <p align="center">图 3</p>
 
-第五步：点击"新增模型映射"按钮，选择数据源，表，同步周期，以及字段映射关系，创建数据模型以及同步周期。
+第五步：点击"新增当前页数据关联"按钮，选择数据源，数据库，表，过滤条件，数据自动同步，同步周期，以及字段映射关系，创建数据模型以及同步周期。
 <div align=center>
 <img src="/articles/cloud/3-/images/opensearch-addmodel.png"/>
 </div>
