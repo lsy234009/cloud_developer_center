@@ -35,11 +35,11 @@
 <li><a href="#minmaxavgsumcount">min,max,avg,sum,count</a></li>
 <li><a href="#stats">stats</a></li>
 <li><a href="#percentiles-百分比">percentiles 百分比</a>
-<li><ul>
+<ul>
 <li><a href="#根据区间聚合">根据区间聚合</a></li>
 <li><a href="#根据时间区间聚合">根据时间区间聚合</a></li>
 </ul>
-</li>
+
 </ul>
 </li>
 </ul>
